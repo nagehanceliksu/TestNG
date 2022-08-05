@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.TestBase;
-
 public class C02_Faker01 extends TestBase {
     //todo
     //   //"https://facebook.com"  Adresine gidin

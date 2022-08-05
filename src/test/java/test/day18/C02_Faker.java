@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.TestBase;
-
 import java.util.Locale;
 
 public class C02_Faker extends TestBase {

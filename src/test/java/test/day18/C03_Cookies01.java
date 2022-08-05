@@ -4,7 +4,6 @@ import org.openqa.selenium.Cookie;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.TestBase;
-
 import java.util.Set;
 
 public class C03_Cookies01 extends TestBase {
