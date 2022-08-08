@@ -1,12 +1,12 @@
-package test.day19;
+package test.day20;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import utilities.TestBase;
-public class C04_JsExecuterClick01 extends TestBase {
-
+public class C01_JsExecuterClick01 extends TestBase {
+//! burdan inceleyelim https://www.softwaretestingmaterial.com/javascriptexecutor-selenium-webdriver/
 //amazon anasayfaya gidip
 //sell linkine JSExecuter ile tiklayin
 //ilgil sayfaya gittigimizi test edelim
